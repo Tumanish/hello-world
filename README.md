@@ -2,7 +2,7 @@
 Just another repository
 /*
 #include <iostream>
-using namespace std; // Пространства имен лучше писать в функции, если кода очень многою...
+using namespace std; // Пространства имен лучше писать в функции, если кода очень много...
 int main()
 {
     setlocale(LC_ALL, "Russian");
